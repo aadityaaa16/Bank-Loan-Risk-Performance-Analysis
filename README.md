@@ -180,16 +180,4 @@ Critical signal: Charged-off loans carry a **2.24% higher interest rate** than f
 
 ---
 
-## 📬 Contact and Feedback
-
-This project was developed as part of a portfolio demonstrating data analysis and financial dashboard capabilities in Microsoft Excel.
-
-**Data Analyst:** Praveen M
-
-**LinkedIn:** [Profile](https://www.linkedin.com/in/praveen-m-a6b0a1354)
-
-**Email:** praveenm2124@gmail.com
-
----
-
 *Data Source: Kaggle Bank Loan Dataset | Tools: Microsoft Excel | Records: 38,600+*
